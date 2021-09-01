@@ -6,3 +6,5 @@ time.sleep(1)
 for i in range(1,10):
     print(i)
     print('dfdfd')
+    print('분당경영고등학교')
+    
